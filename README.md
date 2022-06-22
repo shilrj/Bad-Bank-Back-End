@@ -23,7 +23,7 @@ Create account, login, deposit, withdraw, Your project’s features, and any fut
 # License:
 MIT License
 
-Copyright (c) 2021 Jaime
+Copyright (c) 2021 shilrj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
