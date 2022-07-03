@@ -9,9 +9,20 @@
   "author": "abel@mit.edu",
   "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "cors": "^2.8.5",
+    "corsa": "^1.0.2",
+    "dal": "^0.1.0",
+    "express": "^4.17.1",
+    "http-server": "^14.0.0",
     "lowdb": "^1.0.0",
-    "mongodb": "^3.7.3"
+    "mongodb": "^3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shilrj/Bad-Bank-Back-End.git"
+  }, 
+  "homepage": "https://github.com/shilrj/Bad-Bank-Back-End#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4"
   }
 }

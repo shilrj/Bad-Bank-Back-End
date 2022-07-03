@@ -1,8 +1,8 @@
 # Project Title:
-# Bad-Bank-Back-End
+# fullstack-banking
 
 # Description/Motivation:
-This is a web app to learn and practice about web development, It's a simple Bank simulation wehere the user can create an accoint, login, deposit and withdraw, also give the admin the ability to see the registered users.
+This is a web app to learn and practice about web development, It's a banking application wehere the user can create an account, login, deposit and withdraw, also give the admin the ability to see the registered users.
 
 # Installation Guidelines: 
 git clone, git pull, npm init, npm install express lowdb cors, install docker (https://docs.docker.com/get-started/), install mongo (https://docs.mongodb.com/guides/server/install/)
@@ -23,7 +23,7 @@ Create account, login, deposit, withdraw, Your project’s features, and any fut
 # License:
 MIT License
 
-Copyright (c) 2021 shilrj
+Copyright (c) 2022 shilrj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
