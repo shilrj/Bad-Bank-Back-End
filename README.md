@@ -1,11 +1,21 @@
 # Project Title:
-# fullstack-banking
+# Fullstack-banking
 
 # Description/Motivation:
 This is a web app to learn and practice about web development, It's a banking application wehere the user can create an account, login, deposit and withdraw, also give the admin the ability to see the registered users.
 
 # Installation Guidelines: 
 git clone, git pull, npm init, npm install express lowdb cors, install docker (https://docs.docker.com/get-started/), install mongo (https://docs.mongodb.com/guides/server/install/)
+
+To edit and run locally on your machine
+
+Clone the repo
+git clone https://github.com/shilrj/Bad-Bank-Back-End.git
+Install NPM packages
+npm install
+Run the Node server
+node index.js
+Navigate to http://localhost:3000/ to run the application
 
 # Technology used: 
 React, Node, Express, Mongo
