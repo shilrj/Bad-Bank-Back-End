@@ -10,11 +10,15 @@ git clone, git pull, npm init, npm install express lowdb cors, install docker (h
 To edit and run locally on your machine
 
 Clone the repo
+
 git clone https://github.com/shilrj/Bad-Bank-Back-End.git
+
 Install NPM packages
 npm install
+
 Run the Node server
 node index.js
+
 Navigate to http://localhost:3000/ to run the application
 
 # Technology used: 
